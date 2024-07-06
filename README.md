@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0940-fruit-into-baskets](https://github.com/Sahilraj3107/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sahilraj3107/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sahilraj3107/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahilraj3107/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sahilraj3107/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahilraj3107/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/Sahilraj3107/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sahilraj3107/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sahilraj3107/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
