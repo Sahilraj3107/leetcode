@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilraj3107/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/Sahilraj3107/leetcode/tree/master/0890-lemonade-change) |
+| [0909-stone-game](https://github.com/Sahilraj3107/leetcode/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/Sahilraj3107/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sahilraj3107/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sahilraj3107/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Sahilraj3107/leetcode/tree/master/0066-plus-one) |
 | [0650-2-keys-keyboard](https://github.com/Sahilraj3107/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0909-stone-game](https://github.com/Sahilraj3107/leetcode/tree/master/0909-stone-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sahilraj3107/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/Sahilraj3107/leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilraj3107/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/Sahilraj3107/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0909-stone-game](https://github.com/Sahilraj3107/leetcode/tree/master/0909-stone-game) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sahilraj3107/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0040-combination-sum-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Sahilraj3107/leetcode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
