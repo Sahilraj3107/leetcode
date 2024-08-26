@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Sahilraj3107/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sahilraj3107/leetcode/tree/master/1720-crawler-log-folder) |
 ## Dynamic Programming
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Sahilraj3107/leetcode/tree/master/0130-surrounded-regions) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Sahilraj3107/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Sahilraj3107/leetcode/tree/master/0909-stone-game) |
+## Tree
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Sahilraj3107/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
