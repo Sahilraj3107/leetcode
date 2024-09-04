@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilraj3107/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/Sahilraj3107/leetcode/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/Sahilraj3107/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Sahilraj3107/leetcode/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/Sahilraj3107/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sahilraj3107/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sahilraj3107/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sahilraj3107/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0906-walking-robot-simulation](https://github.com/Sahilraj3107/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/Sahilraj3107/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sahilraj3107/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sahilraj3107/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/Sahilraj3107/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Sahilraj3107/leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Sahilraj3107/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilraj3107/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
