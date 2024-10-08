@@ -5,7 +5,7 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
             if (ch == ']') {
-                if (close >= open || open==0) {
+                if (close >= open ) {
                     ans++;
                     open++;
                 } else
