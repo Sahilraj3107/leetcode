@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sahilraj3107/leetcode/tree/master/0011-container-with-most-water) |
 | [0890-lemonade-change](https://github.com/Sahilraj3107/leetcode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sahilraj3107/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sahilraj3107/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sahilraj3107/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilraj3107/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sahilraj3107/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sahilraj3107/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Sahilraj3107/leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sahilraj3107/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sahilraj3107/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sahilraj3107/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sahilraj3107/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Sahilraj3107/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Sahilraj3107/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sahilraj3107/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/Sahilraj3107/leetcode/tree/master/1720-crawler-log-folder) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sahilraj3107/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
