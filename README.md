@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Sahilraj3107/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilraj3107/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/Sahilraj3107/leetcode/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Sahilraj3107/leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Sahilraj3107/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/Sahilraj3107/leetcode/tree/master/0909-stone-game) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Sahilraj3107/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sahilraj3107/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0724-find-pivot-index](https://github.com/Sahilraj3107/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sahilraj3107/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sahilraj3107/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sahilraj3107/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
