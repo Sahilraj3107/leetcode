@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sahilraj3107/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Sahilraj3107/leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sahilraj3107/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sahilraj3107/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Sahilraj3107/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sahilraj3107/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/Sahilraj3107/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0040-combination-sum-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sahilraj3107/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Game Theory
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sahilraj3107/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sahilraj3107/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sahilraj3107/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahilraj3107/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
 |  |
@@ -354,4 +357,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sahilraj3107/leetcode/tree/master/0204-count-primes) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sahilraj3107/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
