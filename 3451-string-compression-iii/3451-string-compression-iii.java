@@ -1,34 +1,22 @@
 class Solution {
     public String compressedString(String word) {
-
-        StringBuilder str = new StringBuilder("");
-        int cnt = 1;
-
-        for (int i = 1; i < word.length(); i++) {
-            if (word.charAt(i) == word.charAt(i - 1)) {
-                cnt++;
-                if (cnt == 9) {
-                    String x = Integer.toString(cnt);
-                    str.append(cnt);
-                    str.append(word.charAt(i));
-                    cnt = 0;
-                }
+        int n = word.length();
+        Map<Character, Integer> map = new HashMap<>();
+        String ans = "";
+        for (int i = 0; i < n; i++) {
+            char ch = word.charAt(i);
+            if (map.isEmpty() || (map.containsKey(ch) && map.get(ch) < 9)) {
+                map.put(ch, map.getOrDefault(ch, 0) + 1);
             } else {
-                if (cnt == 0) {
-                    cnt = 1;
-                    continue;
-                }
-                String x = Integer.toString(cnt);
-                str.append(cnt);
-                str.append(word.charAt(i - 1));
-                cnt = 1;
+                String num = String.valueOf(map.get(word.charAt(i - 1)));
+                ans = ans + num + word.charAt(i - 1);
+                map.remove(word.charAt(i - 1));
+                map.put(word.charAt(i), 1);
             }
         }
-        if (cnt != 0) {
-            String x = Integer.toString(cnt);
-            str.append(cnt);
-            str.append(word.charAt(word.length() - 1));
-        }
-        return str.toString();
+
+        String num = String.valueOf(map.get(word.charAt(n - 1)));
+        ans = ans + num + word.charAt(n - 1);
+        return ans;
     }
 }
