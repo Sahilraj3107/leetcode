@@ -422,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sahilraj3107/leetcode/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/Sahilraj3107/leetcode/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
