@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sahilraj3107/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sahilraj3107/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/Sahilraj3107/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2792-neighboring-bitwise-xor](https://github.com/Sahilraj3107/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sahilraj3107/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahilraj3107/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sahilraj3107/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sahilraj3107/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sahilraj3107/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahilraj3107/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2792-neighboring-bitwise-xor](https://github.com/Sahilraj3107/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sahilraj3107/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Brainteaser
 |  |
