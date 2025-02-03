@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahilraj3107/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sahilraj3107/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sahilraj3107/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sahilraj3107/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/Sahilraj3107/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
