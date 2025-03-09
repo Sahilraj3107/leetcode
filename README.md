@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sahilraj3107/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sahilraj3107/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/Sahilraj3107/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3463-alternating-groups-i](https://github.com/Sahilraj3107/leetcode/tree/master/3463-alternating-groups-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Sahilraj3107/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sahilraj3107/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sahilraj3107/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3463-alternating-groups-i](https://github.com/Sahilraj3107/leetcode/tree/master/3463-alternating-groups-i) |
 ## Prefix Sum
 |  |
 | ------- |
