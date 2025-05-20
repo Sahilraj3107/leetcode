@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Sahilraj3107/leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Sahilraj3107/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sahilraj3107/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Sahilraj3107/leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Sahilraj3107/leetcode/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0650-2-keys-keyboard](https://github.com/Sahilraj3107/leetcode/tree/master/0650-2-keys-keyboard) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sahilraj3107/leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0650-2-keys-keyboard](https://github.com/Sahilraj3107/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/Sahilraj3107/leetcode/tree/master/0909-stone-game) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sahilraj3107/leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Design
 |  |
