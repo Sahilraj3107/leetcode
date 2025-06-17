@@ -23,8 +23,20 @@ public:
         }
         if(sum%2!=0)return false;
      
-    vector<vector<int>> dp(nums.size(),vector<int>(sum/2+1,-1));
-     return f(nums,nums.size()-1,sum/2,dp);
+    vector<vector<int>> dp(nums.size(),vector<int>(sum/2+1,0));
+    //  return f(nums,nums.size()-1,sum/2,dp);
+
+     dp[0][0]=true;
+     if(nums[0]<=(sum/2))dp[0][nums[0]]=true;
+
+     for(int i=1;i<nums.size();i++){
+        for(int j=1;j<=sum/2;j++){
+            dp[i][j]= dp[i-1][j];
+            if(j-nums[i]>=0)dp[i][j] = dp[i][j] || dp[i-1][j-nums[i]];
+        }
+     }
+     return dp[nums.size()-1][sum/2];
+
 
     }
 };
