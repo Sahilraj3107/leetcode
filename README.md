@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sahilraj3107/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sahilraj3107/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/Sahilraj3107/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Sahilraj3107/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sahilraj3107/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Sahilraj3107/leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahilraj3107/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Sahilraj3107/leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilraj3107/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Sahilraj3107/leetcode/tree/master/2155-find-missing-observations) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Sahilraj3107/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2645-pass-the-pillow](https://github.com/Sahilraj3107/leetcode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sahilraj3107/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sahilraj3107/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
