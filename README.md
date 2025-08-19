@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Sahilraj3107/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Sahilraj3107/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0413-arithmetic-slices](https://github.com/Sahilraj3107/leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0518-coin-change-ii) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahilraj3107/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sahilraj3107/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0413-arithmetic-slices](https://github.com/Sahilraj3107/leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sahilraj3107/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Sahilraj3107/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sahilraj3107/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sahilraj3107/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sahilraj3107/leetcode/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0413-arithmetic-slices](https://github.com/Sahilraj3107/leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0518-coin-change-ii) |
