@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sahilraj3107/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Sahilraj3107/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sahilraj3107/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Sahilraj3107/leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sahilraj3107/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Sahilraj3107/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sahilraj3107/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Sahilraj3107/leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sahilraj3107/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sahilraj3107/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Sahilraj3107/leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sahilraj3107/leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sahilraj3107/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sahilraj3107/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
