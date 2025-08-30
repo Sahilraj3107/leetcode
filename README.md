@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahilraj3107/leetcode/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/Sahilraj3107/leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Sahilraj3107/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Sahilraj3107/leetcode/tree/master/0118-pascals-triangle) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahilraj3107/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Sahilraj3107/leetcode/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Sahilraj3107/leetcode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Sahilraj3107/leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Sahilraj3107/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sahilraj3107/leetcode/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/Sahilraj3107/leetcode/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sahilraj3107/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Sahilraj3107/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
