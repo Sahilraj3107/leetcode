@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sahilraj3107/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Sahilraj3107/leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sahilraj3107/leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sahilraj3107/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sahilraj3107/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sahilraj3107/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sahilraj3107/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sahilraj3107/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sahilraj3107/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sahilraj3107/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sahilraj3107/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sahilraj3107/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sahilraj3107/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sahilraj3107/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilraj3107/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Sahilraj3107/leetcode/tree/master/2155-find-missing-observations) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sahilraj3107/leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sahilraj3107/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sahilraj3107/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2645-pass-the-pillow](https://github.com/Sahilraj3107/leetcode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sahilraj3107/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Sahilraj3107/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sahilraj3107/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sahilraj3107/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sahilraj3107/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2411-spiral-matrix-iv](https://github.com/Sahilraj3107/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sahilraj3107/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sahilraj3107/leetcode/tree/master/3227-find-missing-and-repeated-values) |
