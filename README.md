@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sahilraj3107/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sahilraj3107/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sahilraj3107/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sahilraj3107/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Union Find
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sahilraj3107/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sahilraj3107/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sahilraj3107/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sahilraj3107/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/Sahilraj3107/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sahilraj3107/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sahilraj3107/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sahilraj3107/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sahilraj3107/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sahilraj3107/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3463-alternating-groups-i](https://github.com/Sahilraj3107/leetcode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sahilraj3107/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sahilraj3107/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
