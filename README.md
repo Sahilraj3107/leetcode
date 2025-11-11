@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Sahilraj3107/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0413-arithmetic-slices](https://github.com/Sahilraj3107/leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Sahilraj3107/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0518-coin-change-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilraj3107/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sahilraj3107/leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sahilraj3107/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Sahilraj3107/leetcode/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/Sahilraj3107/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0812-rotate-string](https://github.com/Sahilraj3107/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sahilraj3107/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sahilraj3107/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0413-arithmetic-slices](https://github.com/Sahilraj3107/leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Sahilraj3107/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/Sahilraj3107/leetcode/tree/master/0650-2-keys-keyboard) |
