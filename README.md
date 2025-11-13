@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Sahilraj3107/leetcode/tree/master/2689-rearranging-fruits) |
 | [3195-separate-black-and-white-balls](https://github.com/Sahilraj3107/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sahilraj3107/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Sahilraj3107/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
 |  |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sahilraj3107/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Sahilraj3107/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Sahilraj3107/leetcode/tree/master/3451-string-compression-iii) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sahilraj3107/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sahilraj3107/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sahilraj3107/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sahilraj3107/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sahilraj3107/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sahilraj3107/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sahilraj3107/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sahilraj3107/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sahilraj3107/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
