@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Sahilraj3107/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilraj3107/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sahilraj3107/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2058-concatenation-of-array](https://github.com/Sahilraj3107/leetcode/tree/master/2058-concatenation-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Sahilraj3107/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sahilraj3107/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Sahilraj3107/leetcode/tree/master/2155-find-missing-observations) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Sahilraj3107/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilraj3107/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sahilraj3107/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2058-concatenation-of-array](https://github.com/Sahilraj3107/leetcode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sahilraj3107/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sahilraj3107/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Sahilraj3107/leetcode/tree/master/2155-find-missing-observations) |
