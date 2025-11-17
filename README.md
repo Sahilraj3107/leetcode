@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Sahilraj3107/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sahilraj3107/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/Sahilraj3107/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sahilraj3107/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sahilraj3107/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1559-cherry-pickup-ii](https://github.com/Sahilraj3107/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sahilraj3107/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
