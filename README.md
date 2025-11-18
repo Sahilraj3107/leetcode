@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0518-coin-change-ii) |
 | [0645-set-mismatch](https://github.com/Sahilraj3107/leetcode/tree/master/0645-set-mismatch) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Sahilraj3107/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilraj3107/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/Sahilraj3107/leetcode/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Sahilraj3107/leetcode/tree/master/0890-lemonade-change) |
