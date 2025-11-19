@@ -1,12 +1,11 @@
 class Solution:
     def findFinalValue(self, nums: List[int], original: int) -> int:
-        nums.sort()
-        target =original
+        arr =set(nums)
+        target=original
 
-        for num in nums:
-            if num==target:
-                target*=2
+        while target in arr:
+            target*=2
 
-        return target        
+        return target     
 
         
