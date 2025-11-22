@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Sahilraj3107/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sahilraj3107/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/Sahilraj3107/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sahilraj3107/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sahilraj3107/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sahilraj3107/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahilraj3107/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Sahilraj3107/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sahilraj3107/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Sahilraj3107/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sahilraj3107/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sahilraj3107/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sahilraj3107/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sahilraj3107/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
