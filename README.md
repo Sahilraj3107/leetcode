@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Sahilraj3107/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0979-di-string-match](https://github.com/Sahilraj3107/leetcode/tree/master/0979-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/Sahilraj3107/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Sahilraj3107/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sahilraj3107/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sahilraj3107/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sahilraj3107/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Sahilraj3107/leetcode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Sahilraj3107/leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Sahilraj3107/leetcode/tree/master/0645-set-mismatch) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Sahilraj3107/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sahilraj3107/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sahilraj3107/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sahilraj3107/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
