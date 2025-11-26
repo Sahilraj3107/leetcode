@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Sahilraj3107/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/Sahilraj3107/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sahilraj3107/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sahilraj3107/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Sahilraj3107/leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahilraj3107/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Sahilraj3107/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sahilraj3107/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sahilraj3107/leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sahilraj3107/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Shortest Path
 |  |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sahilraj3107/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sahilraj3107/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Sahilraj3107/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Sahilraj3107/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sahilraj3107/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sahilraj3107/leetcode/tree/master/3227-find-missing-and-repeated-values) |
