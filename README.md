@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sahilraj3107/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Sahilraj3107/leetcode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sahilraj3107/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/Sahilraj3107/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sahilraj3107/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sahilraj3107/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sahilraj3107/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sahilraj3107/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahilraj3107/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sahilraj3107/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/Sahilraj3107/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sahilraj3107/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sahilraj3107/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sahilraj3107/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Sahilraj3107/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sahilraj3107/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sahilraj3107/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1590-make-sum-divisible-by-p](https://github.com/Sahilraj3107/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sahilraj3107/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sahilraj3107/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sahilraj3107/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
