@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Sahilraj3107/leetcode/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sahilraj3107/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sahilraj3107/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Sahilraj3107/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Sahilraj3107/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sahilraj3107/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sahilraj3107/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sahilraj3107/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sahilraj3107/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Sahilraj3107/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Sahilraj3107/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sahilraj3107/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sahilraj3107/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sahilraj3107/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Sahilraj3107/leetcode/tree/master/1803-average-waiting-time) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Sahilraj3107/leetcode/tree/master/1895-largest-magic-square) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sahilraj3107/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sahilraj3107/leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sahilraj3107/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sahilraj3107/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sahilraj3107/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sahilraj3107/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sahilraj3107/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sahilraj3107/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
