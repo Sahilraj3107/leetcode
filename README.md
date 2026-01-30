@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sahilraj3107/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sahilraj3107/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sahilraj3107/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Sahilraj3107/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sahilraj3107/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sahilraj3107/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sahilraj3107/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Sahilraj3107/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sahilraj3107/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Sahilraj3107/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Sahilraj3107/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sahilraj3107/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Sahilraj3107/leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Sahilraj3107/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sahilraj3107/leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Sahilraj3107/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Sahilraj3107/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Sahilraj3107/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Sahilraj3107/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Sahilraj3107/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sahilraj3107/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sahilraj3107/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Sahilraj3107/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Sahilraj3107/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sahilraj3107/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Depth-First Search
@@ -921,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sahilraj3107/leetcode/tree/master/0014-longest-common-prefix) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Sahilraj3107/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sahilraj3107/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Database
 |  |
@@ -996,5 +1001,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sahilraj3107/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Sahilraj3107/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sahilraj3107/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
