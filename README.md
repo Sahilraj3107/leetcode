@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sahilraj3107/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sahilraj3107/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/Sahilraj3107/leetcode/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3430-count-days-without-meetings](https://github.com/Sahilraj3107/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sahilraj3107/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sahilraj3107/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sahilraj3107/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3379-transformed-array](https://github.com/Sahilraj3107/leetcode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Sahilraj3107/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3447-clear-digits](https://github.com/Sahilraj3107/leetcode/tree/master/3447-clear-digits) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
