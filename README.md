@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Sahilraj3107/leetcode/tree/master/0979-di-string-match) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Sahilraj3107/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/Sahilraj3107/leetcode/tree/master/1304-longest-happy-string) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sahilraj3107/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sahilraj3107/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sahilraj3107/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sahilraj3107/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sahilraj3107/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sahilraj3107/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sahilraj3107/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sahilraj3107/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Sahilraj3107/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sahilraj3107/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sahilraj3107/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sahilraj3107/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sahilraj3107/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sahilraj3107/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sahilraj3107/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sahilraj3107/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Sahilraj3107/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -934,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sahilraj3107/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sahilraj3107/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sahilraj3107/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sahilraj3107/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sahilraj3107/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sahilraj3107/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## String Matching
@@ -974,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Sahilraj3107/leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilraj3107/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/Sahilraj3107/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -1026,4 +1031,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sahilraj3107/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sahilraj3107/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sahilraj3107/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Sahilraj3107/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
