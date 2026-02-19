@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sahilraj3107/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Sahilraj3107/leetcode/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilraj3107/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0979-di-string-match](https://github.com/Sahilraj3107/leetcode/tree/master/0979-di-string-match) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sahilraj3107/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sahilraj3107/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Sahilraj3107/leetcode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/Sahilraj3107/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sahilraj3107/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Sahilraj3107/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0812-rotate-string](https://github.com/Sahilraj3107/leetcode/tree/master/0812-rotate-string) |
