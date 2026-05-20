@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sahilraj3107/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Sahilraj3107/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sahilraj3107/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilraj3107/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/Sahilraj3107/leetcode/tree/master/0645-set-mismatch) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sahilraj3107/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Sahilraj3107/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Sahilraj3107/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Sahilraj3107/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Sahilraj3107/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sahilraj3107/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Sahilraj3107/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilraj3107/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Sahilraj3107/leetcode/tree/master/0383-ransom-note) |
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sahilraj3107/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilraj3107/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sahilraj3107/leetcode/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sahilraj3107/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
