@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Sahilraj3107/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sahilraj3107/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/Sahilraj3107/leetcode/tree/master/0495-teemo-attacking) |
 | [0518-coin-change-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0518-coin-change-ii) |
 | [0645-set-mismatch](https://github.com/Sahilraj3107/leetcode/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sahilraj3107/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sahilraj3107/leetcode/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/Sahilraj3107/leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/Sahilraj3107/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/Sahilraj3107/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Sahilraj3107/leetcode/tree/master/1642-water-bottles) |
