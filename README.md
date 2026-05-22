@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Sahilraj3107/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Sahilraj3107/leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0518-coin-change-ii) |
+| [0566-reshape-the-matrix](https://github.com/Sahilraj3107/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/Sahilraj3107/leetcode/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sahilraj3107/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilraj3107/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sahilraj3107/leetcode/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/Sahilraj3107/leetcode/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/Sahilraj3107/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Sahilraj3107/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/Sahilraj3107/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Sahilraj3107/leetcode/tree/master/1642-water-bottles) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Sahilraj3107/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Sahilraj3107/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0463-island-perimeter](https://github.com/Sahilraj3107/leetcode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Sahilraj3107/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Sahilraj3107/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sahilraj3107/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sahilraj3107/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
