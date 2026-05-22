@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilraj3107/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/Sahilraj3107/leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Sahilraj3107/leetcode/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sahilraj3107/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Sahilraj3107/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sahilraj3107/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Sahilraj3107/leetcode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/Sahilraj3107/leetcode/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/Sahilraj3107/leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Sahilraj3107/leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Sahilraj3107/leetcode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Sahilraj3107/leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Sahilraj3107/leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0518-coin-change-ii) |
 | [0645-set-mismatch](https://github.com/Sahilraj3107/leetcode/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sahilraj3107/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
