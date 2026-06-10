@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sahilraj3107/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Sahilraj3107/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Sahilraj3107/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilraj3107/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sahilraj3107/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sahilraj3107/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Sahilraj3107/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Sahilraj3107/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sahilraj3107/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sahilraj3107/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sahilraj3107/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sahilraj3107/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Sahilraj3107/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Sahilraj3107/leetcode/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/Sahilraj3107/leetcode/tree/master/0342-power-of-four) |
