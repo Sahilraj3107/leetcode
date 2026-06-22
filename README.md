@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sahilraj3107/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sahilraj3107/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Sahilraj3107/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/Sahilraj3107/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Sahilraj3107/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sahilraj3107/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sahilraj3107/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0979-di-string-match](https://github.com/Sahilraj3107/leetcode/tree/master/0979-di-string-match) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sahilraj3107/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Sahilraj3107/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/Sahilraj3107/leetcode/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sahilraj3107/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sahilraj3107/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sahilraj3107/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sahilraj3107/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Sahilraj3107/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1364-tuple-with-same-product](https://github.com/Sahilraj3107/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sahilraj3107/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sahilraj3107/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
