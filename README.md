@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Sahilraj3107/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/Sahilraj3107/leetcode/tree/master/1304-longest-happy-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sahilraj3107/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/Sahilraj3107/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sahilraj3107/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sahilraj3107/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sahilraj3107/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/Sahilraj3107/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sahilraj3107/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/Sahilraj3107/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Sahilraj3107/leetcode/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sahilraj3107/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sahilraj3107/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Sahilraj3107/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Sahilraj3107/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sahilraj3107/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/Sahilraj3107/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sahilraj3107/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sahilraj3107/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sahilraj3107/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1002,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sahilraj3107/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Sahilraj3107/leetcode/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sahilraj3107/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1386-cinema-seat-allocation](https://github.com/Sahilraj3107/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sahilraj3107/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sahilraj3107/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sahilraj3107/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
