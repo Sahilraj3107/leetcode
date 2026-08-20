@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sahilraj3107/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sahilraj3107/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sahilraj3107/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sahilraj3107/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sahilraj3107/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sahilraj3107/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sahilraj3107/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2751-robot-collisions](https://github.com/Sahilraj3107/leetcode/tree/master/2751-robot-collisions) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sahilraj3107/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Sahilraj3107/leetcode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Sahilraj3107/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3447-clear-digits](https://github.com/Sahilraj3107/leetcode/tree/master/3447-clear-digits) |
