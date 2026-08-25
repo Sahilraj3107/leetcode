@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Sahilraj3107/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Sahilraj3107/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sahilraj3107/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sahilraj3107/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sahilraj3107/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sahilraj3107/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Sahilraj3107/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sahilraj3107/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sahilraj3107/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sahilraj3107/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
