@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Sahilraj3107/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sahilraj3107/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Sahilraj3107/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sahilraj3107/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Sahilraj3107/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sahilraj3107/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sahilraj3107/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Sahilraj3107/leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Sahilraj3107/leetcode/tree/master/3606-coupon-code-validator) |
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sahilraj3107/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sahilraj3107/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sahilraj3107/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sahilraj3107/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3863-power-grid-maintenance](https://github.com/Sahilraj3107/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
@@ -956,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Sahilraj3107/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sahilraj3107/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sahilraj3107/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sahilraj3107/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sahilraj3107/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Backtracking
 |  |
@@ -1025,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sahilraj3107/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sahilraj3107/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sahilraj3107/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sahilraj3107/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sahilraj3107/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Brainteaser
