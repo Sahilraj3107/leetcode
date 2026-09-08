@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sahilraj3107/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sahilraj3107/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sahilraj3107/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3870-count-commas-in-range](https://github.com/Sahilraj3107/leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sahilraj3107/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
