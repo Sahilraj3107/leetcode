@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sahilraj3107/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/Sahilraj3107/leetcode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sahilraj3107/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sahilraj3107/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahilraj3107/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sahilraj3107/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sahilraj3107/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Sahilraj3107/leetcode/tree/master/0342-power-of-four) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sahilraj3107/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sahilraj3107/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sahilraj3107/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -1084,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Sahilraj3107/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sahilraj3107/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Sahilraj3107/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sahilraj3107/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Sahilraj3107/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Tree
 |  |
