@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Sahilraj3107/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sahilraj3107/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sahilraj3107/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sahilraj3107/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sahilraj3107/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sahilraj3107/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sahilraj3107/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sahilraj3107/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sahilraj3107/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2551-apply-operations-to-an-array](https://github.com/Sahilraj3107/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sahilraj3107/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Sahilraj3107/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sahilraj3107/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sahilraj3107/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sahilraj3107/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Sahilraj3107/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/Sahilraj3107/leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/Sahilraj3107/leetcode/tree/master/2580-circular-sentence) |
@@ -887,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Sahilraj3107/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sahilraj3107/leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sahilraj3107/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sahilraj3107/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Sahilraj3107/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
