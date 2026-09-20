@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Sahilraj3107/leetcode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Sahilraj3107/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3447-clear-digits](https://github.com/Sahilraj3107/leetcode/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sahilraj3107/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sahilraj3107/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sahilraj3107/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/Sahilraj3107/leetcode/tree/master/3451-string-compression-iii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Sahilraj3107/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sahilraj3107/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sahilraj3107/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/Sahilraj3107/leetcode/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sahilraj3107/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sahilraj3107/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
