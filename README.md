@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3524-find-x-value-of-array-i](https://github.com/Sahilraj3107/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Sahilraj3107/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sahilraj3107/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Sahilraj3107/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sahilraj3107/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Sahilraj3107/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3524-find-x-value-of-array-i](https://github.com/Sahilraj3107/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sahilraj3107/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sahilraj3107/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sahilraj3107/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sahilraj3107/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sahilraj3107/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3524-find-x-value-of-array-i](https://github.com/Sahilraj3107/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Sahilraj3107/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Sahilraj3107/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Sahilraj3107/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
