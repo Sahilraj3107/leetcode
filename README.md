@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sahilraj3107/leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sahilraj3107/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sahilraj3107/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahilraj3107/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sahilraj3107/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sahilraj3107/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sahilraj3107/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -924,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sahilraj3107/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Sahilraj3107/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sahilraj3107/leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahilraj3107/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sahilraj3107/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Sahilraj3107/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sahilraj3107/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sahilraj3107/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahilraj3107/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sahilraj3107/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Sahilraj3107/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sahilraj3107/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -1259,4 +1262,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahilraj3107/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
