@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Sahilraj3107/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sahilraj3107/leetcode/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Sahilraj3107/leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sahilraj3107/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Sahilraj3107/leetcode/tree/master/0443-string-compression) |
@@ -992,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Sahilraj3107/leetcode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sahilraj3107/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Sahilraj3107/leetcode/tree/master/0130-surrounded-regions) |
+| [0301-remove-invalid-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/Sahilraj3107/leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sahilraj3107/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sahilraj3107/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1047,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Sahilraj3107/leetcode/tree/master/0040-combination-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Sahilraj3107/leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Sahilraj3107/leetcode/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/Sahilraj3107/leetcode/tree/master/0756-pyramid-transition-matrix) |
