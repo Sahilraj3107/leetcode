@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Sahilraj3107/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Sahilraj3107/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sahilraj3107/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sahilraj3107/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sahilraj3107/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahilraj3107/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1524-string-matching-in-an-array](https://github.com/Sahilraj3107/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sahilraj3107/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sahilraj3107/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sahilraj3107/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sahilraj3107/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sahilraj3107/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sahilraj3107/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sahilraj3107/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sahilraj3107/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1291,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sahilraj3107/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sahilraj3107/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sahilraj3107/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahilraj3107/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
