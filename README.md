@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Sahilraj3107/leetcode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sahilraj3107/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Sahilraj3107/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sahilraj3107/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sahilraj3107/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sahilraj3107/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sahilraj3107/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sahilraj3107/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sahilraj3107/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sahilraj3107/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sahilraj3107/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sahilraj3107/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/Sahilraj3107/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sahilraj3107/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Sahilraj3107/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sahilraj3107/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Sahilraj3107/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sahilraj3107/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sahilraj3107/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/Sahilraj3107/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sahilraj3107/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sahilraj3107/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sahilraj3107/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Sahilraj3107/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sahilraj3107/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sahilraj3107/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sahilraj3107/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sahilraj3107/leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sahilraj3107/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-two-best-non-overlapping-events](https://github.com/Sahilraj3107/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sahilraj3107/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sahilraj3107/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sahilraj3107/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sahilraj3107/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sahilraj3107/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
