@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sahilraj3107/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sahilraj3107/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/Sahilraj3107/leetcode/tree/master/2689-rearranging-fruits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sahilraj3107/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahilraj3107/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sahilraj3107/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sahilraj3107/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sahilraj3107/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sahilraj3107/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/Sahilraj3107/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sahilraj3107/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sahilraj3107/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sahilraj3107/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sahilraj3107/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Sahilraj3107/leetcode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sahilraj3107/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sahilraj3107/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sahilraj3107/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sahilraj3107/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sahilraj3107/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -1123,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sahilraj3107/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahilraj3107/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2792-neighboring-bitwise-xor](https://github.com/Sahilraj3107/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sahilraj3107/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sahilraj3107/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sahilraj3107/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
