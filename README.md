@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sahilraj3107/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Sahilraj3107/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Sahilraj3107/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/Sahilraj3107/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sahilraj3107/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sahilraj3107/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sahilraj3107/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -982,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/Sahilraj3107/leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sahilraj3107/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Sahilraj3107/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/Sahilraj3107/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sahilraj3107/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sahilraj3107/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sahilraj3107/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3665-twisted-mirror-path-count](https://github.com/Sahilraj3107/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
